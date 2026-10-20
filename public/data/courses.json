@@ -1,0 +1,223 @@
+[
+  {
+    "id": "1",
+    "title": "React-ის სრული კურსი",
+    "category": "Frontend",
+    "level": "საშუალო",
+    "price": 240,
+    "rating": 4.9,
+    "students": 812,
+    "duration": 48,
+    "instructor": "ნინო ბერიძე",
+    "description": "ისწავლეთ თანამედროვე React: კომპონენტები, Hooks, Router და Redux Toolkit. კურსის ბოლოს თქვენ თვითონ ააწყობთ სრულფასოვან მრავალგვერდიან აპლიკაციას.",
+    "lessons": [
+      "JSX და კომპონენტები",
+      "State და Props",
+      "Hooks: useEffect, useMemo, useCallback",
+      "React Router და დინამიური გვერდები",
+      "Redux Toolkit და გლობალური state"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "JavaScript საფუძვლები",
+    "category": "Frontend",
+    "level": "დამწყები",
+    "price": 120,
+    "rating": 4.8,
+    "students": 1240,
+    "duration": 32,
+    "instructor": "გიორგი მაისურაძე",
+    "description": "პროგრამირების პირველი ნაბიჯები JavaScript-ით: ცვლადები, ფუნქციები, მასივები, DOM და ასინქრონული კოდი.",
+    "lessons": [
+      "ცვლადები და ტიპები",
+      "ფუნქციები და scope",
+      "მასივები და ობიექტები",
+      "DOM-თან მუშაობა",
+      "Promise და fetch"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Tailwind CSS პრაქტიკაში",
+    "category": "Frontend",
+    "level": "დამწყები",
+    "price": 90,
+    "rating": 4.6,
+    "students": 436,
+    "duration": 16,
+    "instructor": "ანა კვარაცხელია",
+    "description": "სწრაფი და თანამიმდევრული ინტერფეისები utility-first მიდგომით. კურსზე შევქმნით სამ რეალურ ლენდინგს.",
+    "lessons": [
+      "Utility კლასები",
+      "Responsive დიზაინი",
+      "კომპონენტების სტილიზაცია",
+      "Dark mode"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "TypeScript React-ისთვის",
+    "category": "Frontend",
+    "level": "მოწინავე",
+    "price": 280,
+    "rating": 4.9,
+    "students": 298,
+    "duration": 36,
+    "instructor": "ლევან ჯაფარიძე",
+    "description": "ტიპიზაცია, generics და უსაფრთხო კომპონენტები. კურსი განკუთვნილია მათთვის, ვისაც React უკვე იცნობს.",
+    "lessons": [
+      "ტიპები და ინტერფეისები",
+      "Generics",
+      "ტიპიზირებული Hooks",
+      "API-ის ტიპიზაცია",
+      "ტესტირების საფუძვლები"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "UI/UX დიზაინის საფუძვლები",
+    "category": "UI/UX",
+    "level": "დამწყები",
+    "price": 150,
+    "rating": 4.7,
+    "students": 654,
+    "duration": 28,
+    "instructor": "მარიამ გოგიჩაიშვილი",
+    "description": "მომხმარებლის კვლევა, wireframe-ები, ტიპოგრაფია, ფერი და ვიზუალური იერარქია — დიზაინის ყველა საბაზისო ცოდნა ერთ კურსში.",
+    "lessons": [
+      "მომხმარებლის კვლევა",
+      "Wireframe და პროტოტიპი",
+      "ტიპოგრაფია და ფერი",
+      "გამოყენებადობის ტესტირება"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Figma-ში პროდუქტის დიზაინი",
+    "category": "UI/UX",
+    "level": "საშუალო",
+    "price": 200,
+    "rating": 4.8,
+    "students": 371,
+    "duration": 30,
+    "instructor": "მარიამ გოგიჩაიშვილი",
+    "description": "Auto Layout, კომპონენტები, ვარიანტები და დიზაინ-სისტემა. დაასრულეთ მობილური აპლიკაციის სრული დიზაინი.",
+    "lessons": [
+      "Auto Layout",
+      "კომპონენტები და ვარიანტები",
+      "დიზაინ-სისტემის აწყობა",
+      "Handoff დეველოპერებისთვის"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Python დამწყებთათვის",
+    "category": "Python",
+    "level": "დამწყები",
+    "price": 110,
+    "rating": 4.8,
+    "students": 1105,
+    "duration": 30,
+    "instructor": "დავით წულაია",
+    "description": "Python-ის სინტაქსი, ციკლები, ფუნქციები და ფაილებთან მუშაობა. კურსის ბოლოს დაწერთ საკუთარ ავტომატიზაციის სკრიპტს.",
+    "lessons": [
+      "სინტაქსი და ტიპები",
+      "პირობები და ციკლები",
+      "ფუნქციები და მოდულები",
+      "ფაილები და JSON"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Django-ით ვებ-აპლიკაცია",
+    "category": "Python",
+    "level": "მოწინავე",
+    "price": 300,
+    "rating": 4.7,
+    "students": 187,
+    "duration": 44,
+    "instructor": "თორნიკე ხარაიშვილი",
+    "description": "ააწყვეთ backend: მოდელები, ავტორიზაცია, REST API და დეპლოი. კურსი მოიცავს სრულ პროექტს.",
+    "lessons": [
+      "MVT არქიტექტურა",
+      "ORM და მიგრაციები",
+      "ავტორიზაცია",
+      "REST API",
+      "დეპლოი"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Data Analytics SQL-ით",
+    "category": "Data",
+    "level": "საშუალო",
+    "price": 220,
+    "rating": 4.8,
+    "students": 402,
+    "duration": 34,
+    "instructor": "ელენე ლომიძე",
+    "description": "მონაცემთა ბაზებიდან ინფორმაციის ამოღება, გაწმენდა და ანალიზი. რეალური ბიზნეს-ამოცანები და JOIN-ები.",
+    "lessons": [
+      "SELECT და ფილტრები",
+      "JOIN-ები",
+      "აგრეგაცია",
+      "Window ფუნქციები",
+      "ანალიზის ანგარიში"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Power BI და ვიზუალიზაცია",
+    "category": "Data",
+    "level": "საშუალო",
+    "price": 180,
+    "rating": 4.5,
+    "students": 259,
+    "duration": 22,
+    "instructor": "ელენე ლომიძე",
+    "description": "ინტერაქტიული დაფები და ანგარიშები. ისწავლეთ მონაცემების მოდელირება და DAX-ის საფუძვლები.",
+    "lessons": [
+      "მონაცემების იმპორტი",
+      "მოდელირება",
+      "DAX საფუძვლები",
+      "დაფის დიზაინი"
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Cybersecurity საფუძვლები",
+    "category": "Cybersecurity",
+    "level": "დამწყები",
+    "price": 170,
+    "rating": 4.7,
+    "students": 523,
+    "duration": 26,
+    "instructor": "დავით წულაია",
+    "description": "ქსელის უსაფრთხოება, გავრცელებული საფრთხეები და თავდაცვის საბაზისო მეთოდები ყოველდღიური სამუშაოსთვის.",
+    "lessons": [
+      "საფრთხეების სახეები",
+      "ქსელის საფუძვლები",
+      "პაროლები და ავტორიზაცია",
+      "Phishing და სოციალური ინჟინერია"
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Ethical Hacking და Pentesting",
+    "category": "Cybersecurity",
+    "level": "მოწინავე",
+    "price": 350,
+    "rating": 4.9,
+    "students": 144,
+    "duration": 50,
+    "instructor": "თორნიკე ხარაიშვილი",
+    "description": "კონტროლირებად გარემოში გაიარეთ პენტესტის სრული ციკლი: დაზვერვიდან ანგარიშამდე.",
+    "lessons": [
+      "დაზვერვა",
+      "Vulnerability სკანირება",
+      "ვებ-სისტემების ტესტირება",
+      "ანგარიშის მომზადება"
+    ]
+  }
+]
